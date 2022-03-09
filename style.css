@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+}
+.velikidiv{
+    background-color: #6dd354;
+    margin: 200px auto;
+    height: 600px;
+    width: 600px;
+    position: relative;
+}
+.div1{
+    height: 50px;
+    width: 50px;
+    background-color: #333dc8;
+    border-radius: 50%;
+    position: absolute;
+    top: 275px;
+    right: 575px;
+}
+.div2{
+    height: 50px;
+    width: 50px;
+    background-color: #333dc8;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 575px;
+    right: 575px;
+}
+.div3{
+    height: 50px;
+    width: 50px;
+    background-color: #333dc8;
+    border-radius: 50%;
+    position: absolute;
+    top: 575px;
+    right: 575px;
+}
+.div4{
+    height: 50px;
+    width: 50px;
+    background-color: #333dc8;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 575px;
+    left: 575px;
+}
+.div5{
+    height: 50px;
+    width: 50px;
+    background-color: #333dc8;
+    border-radius: 50%;
+    position: absolute;
+    top: 275px;
+    left: 575px;
+}
+.div6{
+    height: 50px;
+    width: 50px;
+    background-color: #333dc8;
+    border-radius: 50%;
+    position: absolute;
+    top: 575px;
+    left: 575px;
+}
